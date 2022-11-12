@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @summaiyashoro , I am a react native developer.
-- 👀 I’m interested in full stack web development.  
-- 🌱 I’m currently learning reactjs and nodejs. 
-- 💞️ I’m looking to collaborate on react native projects. 
+- 👋 Hi, I’m @summaiyashoro , I am a MERN STACK developer.
+- 🌱 I’m currently learning .Net. 
+- 💞️ I’m looking to collaborate on MERN and react native projects. 
 - 📫 How to reach me -> shorosummaiya@gmail.com
